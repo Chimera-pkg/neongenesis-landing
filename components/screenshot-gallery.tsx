@@ -10,7 +10,7 @@ import { Button } from "@/components/ui/button"
 const screenshots = [
   {
     id: 1,
-    src: "/assets/screenshot1.png?height=400&width=700",
+    src: "/assets/screenshot3.png?height=400&width=700",
     alt: "Neon Genesis gameplay screenshot 1",
   },
   {
@@ -20,7 +20,7 @@ const screenshots = [
   },
   {
     id: 3,
-    src: "/assets/screenshot3.png?height=400&width=700",
+    src: "/assets/screenshot1.png?height=400&width=700",
     alt: "Neon Genesis gameplay screenshot 3",
   },
  

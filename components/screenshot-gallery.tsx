@@ -10,29 +10,20 @@ import { Button } from "@/components/ui/button"
 const screenshots = [
   {
     id: 1,
-    src: "/assets/screenshot.png?height=400&width=700",
+    src: "/assets/screenshot1.png?height=400&width=700",
     alt: "Neon Genesis gameplay screenshot 1",
   },
   {
     id: 2,
-    src: "/assets/screenshot.png?height=400&width=700",
+    src: "/assets/screenshot2.png?height=400&width=700",
     alt: "Neon Genesis gameplay screenshot 2",
   },
   {
     id: 3,
-    src: "/assets/screenshot.png?height=400&width=700",
+    src: "/assets/screenshot3.png?height=400&width=700",
     alt: "Neon Genesis gameplay screenshot 3",
   },
-  {
-    id: 4,
-    src: "/assets/screenshot.png?height=400&width=700",
-    alt: "Neon Genesis gameplay screenshot 4",
-  },
-  {
-    id: 5,
-    src: "/assets/screenshot.png?height=400&width=700",
-    alt: "Neon Genesis gameplay screenshot 5",
-  },
+ 
 ]
 
 export function ScreenshotGallery() {

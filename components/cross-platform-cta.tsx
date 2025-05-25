@@ -47,7 +47,7 @@ export function CrossPlatformCta() {
             <div className="flex flex-wrap justify-center gap-4 pt-4">
               <Link href="#" className="transform transition-transform hover:scale-105">
                 <Image
-                  src="/placeholder.svg?height=60&width=180"
+                  src="/assets/google.png?height=60&width=180"
                   alt="Google Play"
                   width={180}
                   height={60}
@@ -56,7 +56,7 @@ export function CrossPlatformCta() {
               </Link>
               <Link href="#" className="transform transition-transform hover:scale-105">
                 <Image
-                  src="/placeholder.svg?height=60&width=180"
+                  src="/assets/apple.png?height=60&width=180"
                   alt="App Store"
                   width={180}
                   height={60}
@@ -65,7 +65,7 @@ export function CrossPlatformCta() {
               </Link>
               <Link href="#" className="transform transition-transform hover:scale-105">
                 <Image
-                  src="/placeholder.svg?height=60&width=180"
+                  src="/assets/steam.png?height=60&width=180"
                   alt="Steam"
                   width={180}
                   height={60}
